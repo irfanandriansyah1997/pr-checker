@@ -1,0 +1,82 @@
+[
+  {
+      "id": 3920718173,
+      "node_id": "PRR_kwDON-jgzM7psWld",
+      "user": {
+          "login": "irfanandriansyah1997",
+          "id": 20946937,
+          "node_id": "MDQ6VXNlcjIwOTQ2OTM3",
+          "avatar_url": "https://avatars.githubusercontent.com/u/20946937?u=dc597a5ec83fc36c933160a2e14dafea46081cae&v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/irfanandriansyah1997",
+          "html_url": "https://github.com/irfanandriansyah1997",
+          "followers_url": "https://api.github.com/users/irfanandriansyah1997/followers",
+          "following_url": "https://api.github.com/users/irfanandriansyah1997/following{/other_user}",
+          "gists_url": "https://api.github.com/users/irfanandriansyah1997/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/irfanandriansyah1997/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/irfanandriansyah1997/subscriptions",
+          "organizations_url": "https://api.github.com/users/irfanandriansyah1997/orgs",
+          "repos_url": "https://api.github.com/users/irfanandriansyah1997/repos",
+          "events_url": "https://api.github.com/users/irfanandriansyah1997/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/irfanandriansyah1997/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+      },
+      "body": "https://github.com/tiket/TIX-AFF-B2B2C-FE/blob/85bf0725a974a7b35cd2be4dba24ff26a9bf32d5/Common/modules/AutoLoginModules/usecase/useLogin.tsx#L115\n\nsama baru baca yang ini kayaknya better di wrap try catch aja mas karena kalo error menurut gw ga worth it misal pas invoked method `updateAnalytics` block ke whole process",
+      "state": "COMMENTED",
+      "html_url": "https://github.com/tiket/TIX-AFF-B2B2C-FE/pull/287#pullrequestreview-3920718173",
+      "pull_request_url": "https://api.github.com/repos/tiket/TIX-AFF-B2B2C-FE/pulls/287",
+      "author_association": "MEMBER",
+      "_links": {
+          "html": {
+              "href": "https://github.com/tiket/TIX-AFF-B2B2C-FE/pull/287#pullrequestreview-3920718173"
+          },
+          "pull_request": {
+              "href": "https://api.github.com/repos/tiket/TIX-AFF-B2B2C-FE/pulls/287"
+          }
+      },
+      "submitted_at": "2026-03-10T08:44:48Z",
+      "commit_id": "35de6dffb6e282a2e7aa80b0041e70ffa7e17821"
+  },
+  {
+      "id": 3927014049,
+      "node_id": "PRR_kwDON-jgzM7qEXqh",
+      "user": {
+          "login": "ryanakbar-tiket",
+          "id": 74170705,
+          "node_id": "MDQ6VXNlcjc0MTcwNzA1",
+          "avatar_url": "https://avatars.githubusercontent.com/u/74170705?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/ryanakbar-tiket",
+          "html_url": "https://github.com/ryanakbar-tiket",
+          "followers_url": "https://api.github.com/users/ryanakbar-tiket/followers",
+          "following_url": "https://api.github.com/users/ryanakbar-tiket/following{/other_user}",
+          "gists_url": "https://api.github.com/users/ryanakbar-tiket/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/ryanakbar-tiket/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/ryanakbar-tiket/subscriptions",
+          "organizations_url": "https://api.github.com/users/ryanakbar-tiket/orgs",
+          "repos_url": "https://api.github.com/users/ryanakbar-tiket/repos",
+          "events_url": "https://api.github.com/users/ryanakbar-tiket/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/ryanakbar-tiket/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+      },
+      "body": "",
+      "state": "COMMENTED",
+      "html_url": "https://github.com/tiket/TIX-AFF-B2B2C-FE/pull/287#pullrequestreview-3927014049",
+      "pull_request_url": "https://api.github.com/repos/tiket/TIX-AFF-B2B2C-FE/pulls/287",
+      "author_association": "MEMBER",
+      "_links": {
+          "html": {
+              "href": "https://github.com/tiket/TIX-AFF-B2B2C-FE/pull/287#pullrequestreview-3927014049"
+          },
+          "pull_request": {
+              "href": "https://api.github.com/repos/tiket/TIX-AFF-B2B2C-FE/pulls/287"
+          }
+      },
+      "submitted_at": "2026-03-11T05:23:51Z",
+      "commit_id": "35de6dffb6e282a2e7aa80b0041e70ffa7e17821"
+  }
+]
