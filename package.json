@@ -1,0 +1,52 @@
+{
+  "name": "@darth_sith_99/pr-checker",
+  "version": "0.0.0",
+  "description": "A configurable tool to fetch and monitor pull requests, detect unreviewed and stale PRs, and help teams prioritize reviews and merges.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint",
+    "prebuild": "rm -rf dist",
+    "build": "pnpm rollup -c --bundleConfigAsCjs --silent"
+  },
+  "devDependencies": {
+    "@cashbound-id/compiler": "^1.0.2",
+    "@cashbound-id/eslint": "^1.1.2",
+    "@eslint/js": "^9.39.4",
+    "@rollup/plugin-commonjs": "^28.0.0",
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "@rollup/plugin-swc": "^0.4.0",
+    "@rollup/plugin-terser": "^1.0.0",
+    "@rollup/plugin-typescript": "^12.0.0",
+    "@swc/cli": "^0.6.0",
+    "@swc/core": "^1.11.0",
+    "@types/node": "^22.14.0",
+    "eslint": "^9.39.4",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-jest": "^28.14.0",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-prettier": "^5.5.5",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-simple-import-sort": "^12.1.1",
+    "eslint-plugin-sort-destructure-keys": "^2.0.0",
+    "eslint-plugin-sort-keys-fix": "^1.1.2",
+    "eslint-plugin-typescript-sort-keys": "^3.3.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.8.1",
+    "react": "^19.2.4",
+    "rollup": "^4.0.0",
+    "rollup-plugin-dts": "^6.4.1",
+    "rollup-plugin-visualizer": "^5.14.0",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.58.0",
+    "typescript-transform-paths": "^3.5.6"
+  },
+  "peerDependencies": {
+    "date-fns": "^4.1.0"
+  },
+  "type": "commonjs",
+  "license": "ISC",
+  "files": [
+    "dist"
+  ]
+}

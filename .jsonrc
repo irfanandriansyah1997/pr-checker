@@ -1,0 +1,6 @@
+SUFFIX_FILE=contract
+SUFFIX_INTERFACE=APIResponseType
+
+SUCCESS_MOCK_FILE=success.json
+ERROR_MOCK_FILE=error.json
+
