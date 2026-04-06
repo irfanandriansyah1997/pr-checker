@@ -1,6 +1,6 @@
 {
   "name": "@darth_sith_99/pr-checker",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A configurable tool to fetch and monitor pull requests, detect unreviewed and stale PRs, and help teams prioritize reviews and merges.",
   "main": "index.js",
   "scripts": {
