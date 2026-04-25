@@ -9,6 +9,8 @@ import { GithubPRReviewStateEnum } from './entities/github';
 import GetPRReviews from './services/GetPRReviews/GetPRReviews';
 import { GetPullRequests } from './services/GetPullRequests/GetPullRequests';
 
+console.log('pr-checker 123');
+
 interface GetApprovalInfoArgs {
   excludedReviewers: string[];
   reviews: GithubPRReviewType[];
